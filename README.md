@@ -1,1 +1,1 @@
-![bonus_point](bonus_point.pdf)
+The detail info in bonus_point.pdf file
